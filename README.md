@@ -8,33 +8,8 @@ I have hands-on experience in building innovative💡 solutions, including an Fa
 
 Programming Languages: Python🐍, JavaScript, java, SQL🐬
 Development Tools🔩: Visual Studio Code, Jupyter Notebook📖, Pandas🐼, Matplotlib📊, Node.js, React.js
-Project Development: Face Recognition😁, Data Science, and Full-Stack Development
 Web Development: Creating responsive web applications using modern frameworks👨‍💻
 Data Science & Analysis: Working with structured and unstructured data for insights and decision-making🧑‍🎓
-
-**Projects**
-
-#Face😎 Recognition Model
--Developed a facial recognition system🎦.
--Trained on face_model.h5🥃.
-
-#Full-Stack🏙 E-Commerce Website🕸️
--Built a responsive website using React.js and Node.js.
--Integrated a payment gateway🤑 for secure transactions.
--Designed a user-friendly UI/UX for better shopping experience.
-
-#Maternal Health🧑‍⚕️ Dashboard 
--Used python🐍 for the backend analysis📈 and displaing the results.
--Tranined model with Maternal_health_risk_dataset.csv in Jupiter notbook📖.
--Used HTML, CSS and Javascript👨‍💻 for Front-end.
-
-#Restaurant🏣 frontend website
--practicing my frontend skills and upskilling💻.
--Using the features of HTML5(Video tags,etc) and tailwind CSS in it.
-
-#File compresser using huffman coding0️⃣1️⃣(DSA technic)
--The code creates a RESTful⚙️ API application using Spring Boot technology. 
--For quick, stand-alone, production-ready service development, it uses a Java-based framework.
 
 **Goals & Future Aspirations**
 
@@ -42,3 +17,27 @@ I am aiming to build a successful career in Data Analysis🥰, or Web Developmen
 
 
 
+# 💫 About Me:
+Hello! I am Vishwanath, a passionate and dedicated Computer Science Engineering student****<br><br>i'm coding and future technology🤖 enthusiastic.I have strong passion in data analytic, analytical computing and web dev💻 too.<br><br>I have hands-on experience in building innovative💡 solutions, including an Face Recognition Model, automated Email📬 using python programming and machine learning. restaurant and E-commers Frontend web sites for developmental basic and getting started. My expertise includes Python🐍,Java, networking, machine learning, and automation. I thrive on solving real-world🌍 challenges through technology🧑‍💻 and engaged in contributing impactful projects while continuously learning🏫 and growing🪴📈 in the tech industry.<br>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ https://discord.gg/nXz7kn89) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishwanath202659) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishwanath Mallikarjun Karadigudd) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Vishwanath M Karadigudd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vishwanath2659) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VishwanathKaradigudd) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vishwanath Mallikarjun Karadigudd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwanathkaradigudd@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vishwa-mk&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Vishwa-mk&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vishwa-mk&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vishwa-mk&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=Vishwa-mk&icon=3&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
